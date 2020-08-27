@@ -2,7 +2,9 @@
 Power Palette is an Android and iOS tablet/phone game built with Unity. Created by Calvin Shyu, Julian Shyu, and Lucas Wang.
 
 **Contact Us**
+
 For support and questions please email us at:
+
 Cws225@cornell.edu or lucaswang@uchicago.edu
 
 **Privacy Policy**
